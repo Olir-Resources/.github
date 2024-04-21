@@ -15,7 +15,7 @@ Using of the advanced technologies and experience, continuous improvement of ser
 Improvement of the business efficiency of the clients. The company applies segmentation of the clients to understand their needs and to form the most optimal offers <br> 
 
 ### PARTNERS
-![kernel](assets/kernel.png)(https://www.kernel.ua/)
-![cofco](assets/cofco.png)(https://www.cofcointernational.com/)
-![adm](assets/adm.png)(https://www.adm.com/)
-![cargil](assets/cargil.png)(http://www.cargill.com/)
+[![kernel](assets/kernel.svg)](https://www.kernel.ua/)
+[![cofco](assets/cofco.svg)](https://www.cofcointernational.com/)
+[![adm](assets/adm.svg)](https://www.adm.com/)
+[![cargil](assets/cargil.svg)](http://www.cargill.com/)
